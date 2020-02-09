@@ -127,6 +127,25 @@ nav{
 
 
 
+
+td, th {
+border: 1px solid #dddddd;
+text-align: center;
+padding: 8px;
+}
+table {
+border-collapse: collapse;
+width: 100%;
+margin: 8px;
+padding: 8px;
+}
+h1 {
+padding: 8px;
+}
+
+
+
+
 .wrapper {
 	width: 100%;
 }
