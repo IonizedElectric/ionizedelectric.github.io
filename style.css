@@ -209,6 +209,10 @@ padding: 8px;
 }
 
 @media only screen and (max-width: 552px) {
+    body {
+	    overflow-x: hidden;
+	}
+
     .container {
 	position: relative;
     text-align: center;
@@ -266,6 +270,10 @@ padding: 8px;
 }
 
 @media only screen and (min-width: 768px) {
+    body {
+	    overflow-x: hidden;
+	}
+
 	.img-banner {
 	display: block;
 	width: 100%;
@@ -295,6 +303,10 @@ padding: 8px;
 }
 
 @media only screen and (min-width: 1000px) {
+    body {
+	    overflow-x: hidden;
+	}
+
 	.wrapper {
 	width: 1000px;
     }
