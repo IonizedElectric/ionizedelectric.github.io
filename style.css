@@ -24,6 +24,10 @@ body {
   position: relative;
 }
 
+.holdplacer {
+	height: 100%;
+}
+
 nav{
 	display: flex;
 	justify-content: space-around;
