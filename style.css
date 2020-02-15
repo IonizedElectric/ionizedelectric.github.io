@@ -4,11 +4,24 @@
 	box-sizing: border-box;
 }
 
+.p1 {
+	float: left;
+}
+
+.p1 p {
+	color: black;
+	position: relative;
+    text-align: center;
+	font-family: arial;
+	font-size: 16px;
+	padding: 10px;
+	}
+
 html, body {
   overflow-x: hidden;
 }
 body {
-  position: relative
+  position: relative;
 }
 
 nav{
@@ -226,6 +239,15 @@ padding: 8px;
     color: white;
 	font-family: arial;
 	font-size: 16px;
+	}
+
+	.p1 p {
+	color: black;
+	position: relative;
+    text-align: center;
+	font-family: arial;
+	font-size: 16px;
+	padding: 10px;
 	}
 
 	.centered {
