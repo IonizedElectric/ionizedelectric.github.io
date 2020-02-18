@@ -11,11 +11,11 @@
 .p1 p {
 	color: black;
 	position: relative;
-    text-align: center;
+    text-align: left;
 	font-family: arial;
 	font-size: 16px;
 	padding: 10px;
-	}
+}
 
 html, body {
   overflow-x: hidden;
@@ -26,6 +26,27 @@ body {
 
 .holdplacer {
 	height: 100%;
+}
+
+#dropdown {
+    display: none;
+    width: 100%;
+    padding: 50px 0;
+	font-family: arial;
+	font-size: 16px;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+#dropdown {
+	float: left;
+}
+
+#drop button {
+	position: relative;
+	padding: 10px;
+	float: left;
 }
 
 nav{
