@@ -52,6 +52,7 @@ function dropDown() {
   } else {
     x.style.display = "block";
   }
+  window.scrollTo(0, 1000);
 }
 
 const app = () => {
