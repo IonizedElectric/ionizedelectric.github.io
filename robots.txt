@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /poster.pdf
 Disallow: /design-concept.pdf
 Disallow: /design-concept-lite.pdf
+Sitemap: http://ionizedelectric.github.io/sitemap.xml
